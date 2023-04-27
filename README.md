@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋🏽
 
 <!--
 **bvp416/bvp416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨🏽‍💻 I'm a DevOps Engineer with a demonstrated history of architecting and managing solutions in cloud and container environments. 
+
+🔐 Security conscious in all stages of the DevOps lifecycle.
+
+🎨 My skills enable developers to focus more on creativity.

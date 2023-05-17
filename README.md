@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 🔐 Security conscious in all stages of the DevOps lifecycle.
 
-🎨 My skills enable developers to focus more on creativity.
+🎨 My skills enable developers to be more creative and drive more business value.
